@@ -13,7 +13,7 @@ Há maneiras de usar o wmic no Windows por meios remotos porém ele não consegu
 
 Por definição, CSV é um formato de arquivo que significa “comma-separated-values” (valores separados por vírgulas). Isso significa que os campos de dados indicados neste formato normalmente são separados ou delimitados por uma vírgula.
 
-Em base vai ser um arquivo em excel que você vai trabalhar emcima.
+Em base vai ser um arquivo em excel que você vai trabalhar em cima, podendo separar as linhas por colunas.
 Pessoal também usa muito o LibreOffice para trabalhar com esse tipo de formato de arquivo.
 
 # Problemas
